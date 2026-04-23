@@ -1,6 +1,7 @@
 # Bullying Risk-Prediction Using Machine Learning
 This project using Python programming language to analyze Bullying dataset and predict bullying risk among adolescent stduents. 
 
+## Overview
 Main component in this project:
 1. Understanding, Pre-processing, and Model Training (Pre-processing & Build Model.ipynb)
    - This step performs data understanding, data cleaning, data pre-processing, model building and model comparison. Model includes Logistic Regression, Random Forest, SVM, and XGBoost. The best model after comparison is XGBoost with 84% accuracy. 
