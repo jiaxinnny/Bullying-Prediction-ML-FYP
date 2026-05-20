@@ -535,5 +535,10 @@ st.markdown("""
 st.markdown('<div class="footer">🌎 Contact us at: support@bullyingpredictionsystem.com | &copy; YAP JIA XIN_TP066475 @ 2025 Bullying Prediction System</div>', unsafe_allow_html=True)
 
 
+## To run this code:
+# 1. cd "file_path"
+# 2. streamlit run Bullying_predictive_system.py
 
-# streamlit run Bullying_predictive_system.py
+
+
+
