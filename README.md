@@ -1,14 +1,14 @@
 # Bullying Risk-Prediction System Using Machine Learning
-<img width="1368" height="701" alt="image" src="https://github.com/user-attachments/assets/ec126484-e83f-4a99-ac67-e55a2e5f8a67" />
+<img width="1268" height="601" alt="image" src="https://github.com/user-attachments/assets/ec126484-e83f-4a99-ac67-e55a2e5f8a67" />
 
 
 ## 📖 Overview
 Main component in this project:
 1. Understanding, Pre-processing, and Model Training ***(Pre-processing & Build Model.ipynb)***
-- This step used Python programming language to perform data understanding, data cleaning, data pre-processing, model building and model comparison. Models including Logistic Regression, Random Forest, SVM, and XGBoost. The best model after comparison is XGBoost with 84% accuracy. 
+   - This step used Python programming language to perform data understanding, data cleaning, data pre-processing, model building and model comparison. Models including Logistic Regression, Random Forest, SVM, and XGBoost. The best model after comparison is XGBoost with 84% accuracy. 
 
-2. Bullying Prediction System ***(Bullying Prediction System.py)***
-- Used Streamlit and the best-performing model (XGBoost) to built a predictive system with simple interface. The system is to predict whetehr a student having risk on being bullied and will provide different recommendations to avoid being bullied. 
+3. Bullying Prediction System ***(Bullying Prediction System.py)***
+   - Used Streamlit and the best-performing model (XGBoost) to built a predictive system with simple interface. The system is to predict whetehr a student having risk on being bullied and will provide different recommendations to avoid being bullied. 
 
 ### Target Users : Student, Parent, Educator
 
