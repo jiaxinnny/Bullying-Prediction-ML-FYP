@@ -1,5 +1,5 @@
 # Bullying Risk-Prediction System Using Machine Learning
-<img width="1168" height="509" alt="image" src="https://github.com/user-attachments/assets/ec126484-e83f-4a99-ac67-e55a2e5f8a67" />
+<img width="1068" height="509" alt="image" src="https://github.com/user-attachments/assets/ec126484-e83f-4a99-ac67-e55a2e5f8a67" />
 
 
 ## 📖 Overview
