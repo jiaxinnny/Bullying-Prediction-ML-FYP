@@ -1,5 +1,7 @@
 # Bullying Risk-Prediction System Using Machine Learning
 This project used Python programming language to analyze Bullying dataset and predict bullying risk among adolescent stduents.
+<img width="1368" height="701" alt="image" src="https://github.com/user-attachments/assets/ec126484-e83f-4a99-ac67-e55a2e5f8a67" />
+
 
 ## 📖 Overview
 Main component in this project:
