@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 
 # Load the trained model
-with open("Bullying_model.pkl", "rb") as file:
+with open("Bullying_best_model.pkl", "rb") as file:
     model = pickle.load(file)
 
 st.set_page_config(page_title="Bullying Prediction System", page_icon=":brain:", layout="wide")
