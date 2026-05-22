@@ -16,12 +16,12 @@ Main component in this project:
 * Machine Learning Models - Logistic Regression, Random Forest, SVM, XGBoost
 
 ## 📑 References
-<img width="637" height="930" alt="image" src="https://github.com/user-attachments/assets/5930c114-97a6-4e38-ad2e-46ef50d2fef2" />
-<img width="637" height="930" alt="image" src="https://github.com/user-attachments/assets/2c556d26-d24b-4976-863a-cf722121faba" />
-<img width="637" height="930" alt="image" src="https://github.com/user-attachments/assets/59d732ce-9ac2-483a-9063-e21e1d669067" />
-<img width="637" height="930" alt="image" src="https://github.com/user-attachments/assets/6dea7f1d-5177-4a07-9ce7-3eb035db55f2" />
-<img width="637" height="930" alt="image" src="https://github.com/user-attachments/assets/e8be336e-1902-42c0-9adf-71b83a4b10dd" />
-<img width="637" height="854" alt="image" src="https://github.com/user-attachments/assets/e93c8acd-2cf5-4181-a549-d0ab1acda52c" />
+<img width="437" height="730" alt="image" src="https://github.com/user-attachments/assets/5930c114-97a6-4e38-ad2e-46ef50d2fef2" />
+<img width="437" height="730" alt="image" src="https://github.com/user-attachments/assets/2c556d26-d24b-4976-863a-cf722121faba" />
+<img width="437" height="730" alt="image" src="https://github.com/user-attachments/assets/59d732ce-9ac2-483a-9063-e21e1d669067" />
+<img width="437" height="730" alt="image" src="https://github.com/user-attachments/assets/6dea7f1d-5177-4a07-9ce7-3eb035db55f2" />
+<img width="437" height="730" alt="image" src="https://github.com/user-attachments/assets/e8be336e-1902-42c0-9adf-71b83a4b10dd" />
+<img width="437" height="654" alt="image" src="https://github.com/user-attachments/assets/e93c8acd-2cf5-4181-a549-d0ab1acda52c" />
 
 
 
