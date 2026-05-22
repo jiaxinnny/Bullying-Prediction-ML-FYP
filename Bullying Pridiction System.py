@@ -537,7 +537,11 @@ st.markdown('<div class="footer">🌎 Contact us at: support@bullyingpredictions
 
 ## To run this code:
 # 1. cd "file_path"
-# 2. streamlit run Bullying_predictive_system.py
+# 2. streamlit run "file_name"
+
+## Example:
+# 1. cd "D:\Uni (Foundation - Degree)\Degree Year 3\Semester 2\FYP 2\FYP"
+# 2. streamlit run "Bullying_predictive_system.py"
 
 
 
