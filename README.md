@@ -17,7 +17,7 @@ Main component in this project:
 
 ## 📑 References
 <img width="382" height="555" alt="image" src="https://github.com/user-attachments/assets/c2c27eb0-4436-401e-b038-4d979fa62048" /><br>
-<img width="382" height="556" alt="image" src="https://github.com/user-attachments/assets/e03891da-a52e-47cc-9ef1-ad936475efb9" /><p>
+<img width="382" height="556" alt="image" src="https://github.com/user-attachments/assets/e03891da-a52e-47cc-9ef1-ad936475efb9" /><br>
 <img width="382" height="556" alt="image" src="https://github.com/user-attachments/assets/3cb18879-c46c-4d95-9e65-20ccb567db1d" /><br>
 <img width="382" height="555" alt="image" src="https://github.com/user-attachments/assets/08c64088-387c-4902-afee-68e1d4f0a19f" /><br>
 <img width="382" height="557" alt="image" src="https://github.com/user-attachments/assets/fa8c8dda-f730-412f-b919-3e2417c315e6" /><br>
