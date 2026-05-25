@@ -20,18 +20,18 @@ Main component in this project:
 Class 0 : Non-Victimization _(Students who are not being bullied)_<br>
 Class 1 : Victimization _(Students who have been bullied)_<br>
 <img width="554" height="350" alt="image" src="https://github.com/user-attachments/assets/64244e65-3fc2-447a-aae9-46abfa16ab76" /> <br>
-<hr>
+<hr><br>
 ### > Learning Curve
 <img width="546" height="761" alt="image" src="https://github.com/user-attachments/assets/62aacf3f-5aa6-4c79-b79e-96f24dc93f53" /><br>
 <img width="546" height="250" alt="image" src="https://github.com/user-attachments/assets/b8ab36ea-ff21-407a-9b2e-36afba4d4cad" /><br>
-<hr>
-### > ROC-AUC
+<hr><br>
+### > ROC-AUC<br>
 <img width="546" height="535" alt="image" src="https://github.com/user-attachments/assets/478ff810-647f-4370-b7ad-b04a1e7e612e" /><br>
 <img width="546" height="535" alt="image" src="https://github.com/user-attachments/assets/621a259b-93df-46b0-9249-243044b31dc6" /><br> <br> 
 
 > [!IMPORTANT]
 > In conclusion, the above Classification Report, Learning Curve, and ROC-AUC report shows that XGBoost have the best performance compared with other models.Therefore, XGBoost is the best model to build bullying risk prediction system. <br> <br>
-<hr>
+<hr><br>
 ### > Bullying Victimization Risk Prediction System
 * Home Page
 <img width="838" height="409" alt="image" src="https://github.com/user-attachments/assets/c23e6757-073c-463b-8cd5-27ec61a063f1" /><br>
