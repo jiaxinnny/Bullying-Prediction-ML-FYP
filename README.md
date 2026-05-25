@@ -20,7 +20,7 @@ Main component in this project:
 Class 0 : Non-Victimization _(Students who are not being bullied)_<br>
 Class 1 : Victimization _(Students who have been bullied)_<br>
 <img width="554" height="350" alt="image" src="https://github.com/user-attachments/assets/64244e65-3fc2-447a-aae9-46abfa16ab76" /> 
-
+<hr>
 ### > Learning Curve
 <img width="546" height="761" alt="image" src="https://github.com/user-attachments/assets/62aacf3f-5aa6-4c79-b79e-96f24dc93f53" />
 <img width="546" height="250" alt="image" src="https://github.com/user-attachments/assets/b8ab36ea-ff21-407a-9b2e-36afba4d4cad" />
