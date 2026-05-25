@@ -19,7 +19,7 @@ Main component in this project:
 ### Classification Report 
 Class 0 : Non-Victimization _(Students who are not being bullied)_<br>
 Class 1 : Victimization _(Students who have been bullied)_<br>
-<img width="574" height="220" alt="image" src="https://github.com/user-attachments/assets/64244e65-3fc2-447a-aae9-46abfa16ab76" /> 
+<img width="574" height="320" alt="image" src="https://github.com/user-attachments/assets/64244e65-3fc2-447a-aae9-46abfa16ab76" /> 
 
 ### Learning Curve
 <img width="541" height="761" alt="image" src="https://github.com/user-attachments/assets/62aacf3f-5aa6-4c79-b79e-96f24dc93f53" />
