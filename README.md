@@ -37,7 +37,7 @@ Class 1 : Victimization _(Students who have been bullied)_<br>
 <img width="838" height="409" alt="image" src="https://github.com/user-attachments/assets/5e09fc46-27b6-42c9-b7b7-3fee870828c7" /><br>
 #### Prediction page
 <img width="838" height="409" alt="image" src="https://github.com/user-attachments/assets/f8316dc1-753e-44f5-9458-773a08c8e013" /><br>
-<img width="838" height="365" alt="image" src="https://github.com/user-attachments/assets/b4cbf76c-9509-4a60-9953-1e00eaab6779" /><br>
+<img width="838" height="355" alt="image" src="https://github.com/user-attachments/assets/b4cbf76c-9509-4a60-9953-1e00eaab6779" /><br>
 <img width="838" height="500" alt="image" src="https://github.com/user-attachments/assets/cbf8d585-0d6f-4543-b024-da4ddcbaec40" /><br>
 <img width="838" height="250" alt="image" src="https://github.com/user-attachments/assets/06bdb20a-b654-4c3d-908c-4462921bfee5" /><br>
 
