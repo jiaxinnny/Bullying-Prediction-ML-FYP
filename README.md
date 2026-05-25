@@ -33,13 +33,13 @@ Class 1 : Victimization _(Students who have been bullied)_<br>
 
 ### > Bullying Victimization Risk Prediction System
 #### Home Page
-<img width="1166" height="707" alt="image" src="https://github.com/user-attachments/assets/c23e6757-073c-463b-8cd5-27ec61a063f1" /><br>
-<img width="1165" height="715" alt="image" src="https://github.com/user-attachments/assets/5e09fc46-27b6-42c9-b7b7-3fee870828c7" /><br>
+<img width="1166" height="507" alt="image" src="https://github.com/user-attachments/assets/c23e6757-073c-463b-8cd5-27ec61a063f1" /><br>
+<img width="1165" height="515" alt="image" src="https://github.com/user-attachments/assets/5e09fc46-27b6-42c9-b7b7-3fee870828c7" /><br>
 #### Prediction page
-<img width="1229" height="690" alt="image" src="https://github.com/user-attachments/assets/f8316dc1-753e-44f5-9458-773a08c8e013" /><br>
-<img width="1229" height="554" alt="image" src="https://github.com/user-attachments/assets/b4cbf76c-9509-4a60-9953-1e00eaab6779" /><br>
-<img width="1249" height="833" alt="image" src="https://github.com/user-attachments/assets/ba6abca3-e230-4075-9967-b9628efda237" /><br>
-<img width="1228" height="413" alt="image" src="https://github.com/user-attachments/assets/06bdb20a-b654-4c3d-908c-4462921bfee5" /><br>
+<img width="1229" height="490" alt="image" src="https://github.com/user-attachments/assets/f8316dc1-753e-44f5-9458-773a08c8e013" /><br>
+<img width="1229" height="454" alt="image" src="https://github.com/user-attachments/assets/b4cbf76c-9509-4a60-9953-1e00eaab6779" /><br>
+<img width="1229" height="433" alt="image" src="https://github.com/user-attachments/assets/ba6abca3-e230-4075-9967-b9628efda237" /><br>
+<img width="1229" height="313" alt="image" src="https://github.com/user-attachments/assets/06bdb20a-b654-4c3d-908c-4462921bfee5" /><br>
 
 ## 📑 References
 <img width="437" height="630" alt="image" src="https://github.com/user-attachments/assets/5930c114-97a6-4e38-ad2e-46ef50d2fef2" /><br>
