@@ -1,4 +1,4 @@
-# Bullying Risk-Prediction System Using Machine Learning
+# Bullying Risk Prediction System Using Machine Learning
 <img width="868" height="409" alt="image" src="https://github.com/user-attachments/assets/ec126484-e83f-4a99-ac67-e55a2e5f8a67" />
 
 
