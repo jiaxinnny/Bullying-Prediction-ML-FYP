@@ -29,17 +29,17 @@ Class 1 : Victimization _(Students who have been bullied)_<br>
 <img width="546" height="535" alt="image" src="https://github.com/user-attachments/assets/478ff810-647f-4370-b7ad-b04a1e7e612e" />
 <img width="546" height="535" alt="image" src="https://github.com/user-attachments/assets/621a259b-93df-46b0-9249-243044b31dc6" /><br> 
 
->#### In conclusion, the above Classification Report, Learning Curve, and ROC-AUC report shows that XGBoost have the best performance compared with other models.Therefore, XGBoost is the best model to build bullying risk prediction system. <br> 
+>#### In conclusion, the above Classification Report, Learning Curve, and ROC-AUC report shows that XGBoost have the best performance compared with other models.Therefore, XGBoost is the best model to build bullying risk prediction system. <br> <br>
 
 ### > Bullying Victimization Risk Prediction System
 #### Home Page
-<img width="1366" height="707" alt="image" src="https://github.com/user-attachments/assets/c23e6757-073c-463b-8cd5-27ec61a063f1" />
-<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/5e09fc46-27b6-42c9-b7b7-3fee870828c7" />
+<img width="1166" height="707" alt="image" src="https://github.com/user-attachments/assets/c23e6757-073c-463b-8cd5-27ec61a063f1" /><br>
+<img width="1165" height="715" alt="image" src="https://github.com/user-attachments/assets/5e09fc46-27b6-42c9-b7b7-3fee870828c7" /><br>
 #### Prediction page
-<img width="1429" height="690" alt="image" src="https://github.com/user-attachments/assets/f8316dc1-753e-44f5-9458-773a08c8e013" />
-<img width="1429" height="554" alt="image" src="https://github.com/user-attachments/assets/b4cbf76c-9509-4a60-9953-1e00eaab6779" />
-<img width="1449" height="833" alt="image" src="https://github.com/user-attachments/assets/ba6abca3-e230-4075-9967-b9628efda237" />
-<img width="1428" height="413" alt="image" src="https://github.com/user-attachments/assets/06bdb20a-b654-4c3d-908c-4462921bfee5" />
+<img width="1229" height="690" alt="image" src="https://github.com/user-attachments/assets/f8316dc1-753e-44f5-9458-773a08c8e013" /><br>
+<img width="1229" height="554" alt="image" src="https://github.com/user-attachments/assets/b4cbf76c-9509-4a60-9953-1e00eaab6779" /><br>
+<img width="1249" height="833" alt="image" src="https://github.com/user-attachments/assets/ba6abca3-e230-4075-9967-b9628efda237" /><br>
+<img width="1228" height="413" alt="image" src="https://github.com/user-attachments/assets/06bdb20a-b654-4c3d-908c-4462921bfee5" /><br>
 
 ## 📑 References
 <img width="437" height="630" alt="image" src="https://github.com/user-attachments/assets/5930c114-97a6-4e38-ad2e-46ef50d2fef2" /><br>
