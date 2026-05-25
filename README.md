@@ -20,11 +20,13 @@ Main component in this project:
 Class 0 : Non-Victimization _(Students who are not being bullied)_<br>
 Class 1 : Victimization _(Students who have been bullied)_<br>
 <img width="554" height="350" alt="image" src="https://github.com/user-attachments/assets/64244e65-3fc2-447a-aae9-46abfa16ab76" /> <br>
-<hr><br>
+<hr>
+
 ### > Learning Curve
 <img width="546" height="761" alt="image" src="https://github.com/user-attachments/assets/62aacf3f-5aa6-4c79-b79e-96f24dc93f53" /><br>
 <img width="546" height="250" alt="image" src="https://github.com/user-attachments/assets/b8ab36ea-ff21-407a-9b2e-36afba4d4cad" /><br>
-<hr><br>
+<hr>
+
 ### > ROC-AUC<br>
 <img width="546" height="535" alt="image" src="https://github.com/user-attachments/assets/478ff810-647f-4370-b7ad-b04a1e7e612e" /><br>
 <img width="546" height="535" alt="image" src="https://github.com/user-attachments/assets/621a259b-93df-46b0-9249-243044b31dc6" /><br> <br> 
